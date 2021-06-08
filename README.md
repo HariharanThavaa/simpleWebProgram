@@ -10,3 +10,5 @@ to run app on docker :
 ```docker run -p 8080:8080 -t hbs/sample-web```
 
 Now access : ```http://localhost:8080/```
+
+Ref: ``https://spring.io/guides/gs/spring-boot-docker/``
